@@ -1,0 +1,20 @@
+# 디벨로직 공개 문서 사이트 (GitHub Pages).
+#
+# 앱마다 폴더를 하나씩 둔다. 스토어는 앱별로 개인정보처리방침 주소와 계정·자료
+# 삭제 요청 주소를 따로 요구하므로, 앱이 늘어도 폴더만 더하면 된다.
+#
+#   funclub/  → 펀클럽 (com.develogic.funclub)
+#
+# 앱 소스는 여기 없다. 앱 저장소는 따로 있다.
+#
+# 켜는 법: 저장소 Settings → Pages → Source 'Deploy from a branch',
+# 갈래 main, 폴더 / (root).
+
+title: 디벨로직 문서
+description: 디벨로직이 만든 앱의 개인정보처리방침과 계정·자료 삭제 안내
+theme: jekyll-theme-cayman
+lang: ko
+
+# 프로젝트 사이트라 주소 앞에 저장소 이름이 붙는다. 쪽끼리 거는 링크는 이 값을
+# 거쳐 적으므로, 저장소 이름을 바꾸면 여기 한 줄만 고치면 된다.
+baseurl: /develogic-docs
