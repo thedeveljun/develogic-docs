@@ -15,6 +15,7 @@ permalink: /funclub/
 
 - [개인정보처리방침]({{ site.baseurl }}/funclub/privacy/)
 - [계정·자료 삭제 요청]({{ site.baseurl }}/funclub/delete/)
+- [이용약관 · 유료 서비스와 환불]({{ site.baseurl }}/funclub/terms/)
 
 ## 문의
 
